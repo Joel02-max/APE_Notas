@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "k5VFmjRZCLJkPMrDJtlLns8z5ExZ2X6u5gXz4NgLvjo=",
+  "Source": "NOTAS_APE",
+  "BasePath": "_content/NOTAS_APE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NOTAS_APE\\wwwroot",
+      "Source": "NOTAS_APE",
+      "ContentRoot": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zmjymd6enb",
+      "Integrity": "FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "scriptProfesores#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c3tw8grwq0",
+      "Integrity": "SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scriptProfesores.js"
+    },
+    {
+      "Identity": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "SourceId": "NOTAS_APE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\",
+      "BasePath": "_content/NOTAS_APE",
+      "RelativePath": "stylesProfesor#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7x0oxws8cm",
+      "Integrity": "VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylesProfesor.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 23:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo="
+        }
+      ]
+    },
+    {
+      "Route": "index.zmjymd6enb.html",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 23:18:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmjymd6enb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo="
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.c3tw8grwq0.js",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c3tw8grwq0"
+        },
+        {
+          "Name": "label",
+          "Value": "scriptProfesores.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490="
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.js",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:28:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490="
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.7x0oxws8cm.css",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 02:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7x0oxws8cm"
+        },
+        {
+          "Name": "label",
+          "Value": "stylesProfesor.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys="
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.css",
+      "AssetFile": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 02:14:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys="
+        }
+      ]
+    }
+  ]
+}

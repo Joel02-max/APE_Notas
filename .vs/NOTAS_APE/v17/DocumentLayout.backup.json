@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\estudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\repositories\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\repositories\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\services\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\exceptions\\sqlexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\exceptions\\sqlexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\wwwroot\\scriptprofesores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\scriptprofesores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\wwwroot\\stylesprofesor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\wwwroot\\stylesprofesor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|c:\\users\\yelts\\onedrive\\documentos\\pa\\expo7\\notas_ape\\notas_ape\\notas_ape.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6447F8B-670C-409E-B732-32005EC9E16F}|NOTAS_APE\\NOTAS_APE.csproj|solutionrelative:notas_ape\\notas_ape.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Exceptions\\SqlExceptionHandler.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Exceptions\\SqlExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Exceptions\\SqlExceptionHandler.cs",
+              "RelativeToolTip": "NOTAS_APE\\Exceptions\\SqlExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T23:19:28.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-23T20:59:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:58:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\EstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Repositories\\EstudianteRepository.cs*",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\EstudianteRepository.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:59:13.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Services\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Services\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Services\\EstudianteService.cs",
+              "RelativeToolTip": "NOTAS_APE\\Services\\EstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:58:49.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "RelativeToolTip": "NOTAS_APE\\Repositories\\IEstudianteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:59:27.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scriptProfesores.js",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\scriptProfesores.js",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwGABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-17T17:23:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stylesProfesor.css",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "RelativeDocumentMoniker": "NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "RelativeToolTip": "NOTAS_APE\\wwwroot\\stylesProfesor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-23T21:05:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "NOTAS_APE\\Controllers\\CursosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:40:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Program.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Program.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Program.cs",
+              "RelativeToolTip": "NOTAS_APE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:47:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "NOTAS_APE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:53:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NOTAS_APE.csproj",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\NOTAS_APE.csproj",
+              "RelativeDocumentMoniker": "NOTAS_APE\\NOTAS_APE.csproj",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\NOTAS_APE.csproj",
+              "RelativeToolTip": "NOTAS_APE\\NOTAS_APE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T17:15:52.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\appsettings.json",
+              "RelativeDocumentMoniker": "NOTAS_APE\\appsettings.json",
+              "ToolTip": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\appsettings.json",
+              "RelativeToolTip": "NOTAS_APE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T17:07:59.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.Development.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.staticwebassets.endpoints.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.exe
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.deps.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.runtimeconfig.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.pdb
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Core.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Identity.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.ClientModel.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Json.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.AssemblyReference.cache
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.GeneratedMSBuildEditorConfig.editorconfig
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfoInputs.cache
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfo.cs
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.CoreCompileInputs.cache
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cs
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cache
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.sourcelink.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\scopedcss\bundle\NOTAS_APE.styles.css
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.development.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.build.NOTAS_APE.props
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NOTAS_APE.props
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NOTAS_APE.props
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.Up2Date
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\refint\NOTAS_APE.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.pdb
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.genruntimeconfig.cache
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\ref\NOTAS_APE.dll
+D:\PA\Clases\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.staticwebassets.endpoints.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.exe
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.deps.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.runtimeconfig.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.pdb
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.AssemblyReference.cache
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfoInputs.cache
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfo.cs
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.CoreCompileInputs.cache
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\scopedcss\bundle\NOTAS_APE.styles.css
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.build.NOTAS_APE.props
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NOTAS_APE.props
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NOTAS_APE.props
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.Up2Date
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\refint\NOTAS_APE.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.pdb
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.genruntimeconfig.cache
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\ref\NOTAS_APE.dll
+C:\Users\ccdev\Documents\Proyectos\Programacion Avanzada\NOTAS_APE\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.staticwebassets.runtime.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.staticwebassets.endpoints.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\appsettings.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.staticwebassets.runtime.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.exe
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.deps.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.runtimeconfig.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\NOTAS_APE.pdb
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.AssemblyReference.cache
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfoInputs.cache
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.AssemblyInfo.cs
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.CoreCompileInputs.cache
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\scopedcss\bundle\NOTAS_APE.styles.css
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.build.NOTAS_APE.props
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NOTAS_APE.props
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NOTAS_APE.props
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.csproj.Up2Date
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\refint\NOTAS_APE.dll
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.pdb
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\NOTAS_APE.genruntimeconfig.cache
+C:\Users\yelts\OneDrive\Documentos\PA\EXpo7\NOTAS_APE\NOTAS_APE\obj\Debug\net8.0\ref\NOTAS_APE.dll

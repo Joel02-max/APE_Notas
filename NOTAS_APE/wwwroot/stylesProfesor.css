@@ -1,0 +1,433 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #b8cf1f;
+    display: flex;
+    min-height: 100vh;
+    color: #333;
+}
+
+.sidebar {
+    width: 220px;
+    background-color: #e1ef67;
+    color: #506b79;
+    padding: 30px 20px;
+    position: fixed;
+    height: 100vh;
+    box-shadow: 2px 0 8px rgba(0, 0, 0, 0.1);
+}
+
+    .sidebar .logo {
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+.menu {
+    list-style: none;
+}
+
+    .menu li {
+        margin-bottom: 20px;
+    }
+
+    .menu a {
+        text-decoration: none;
+        color: #32d7da;
+        font-size: 18px;
+        display: block;
+        transition: all 0.2s ease;
+    }
+
+        .menu a:hover {
+            color: #239b79;
+            transform: translateX(5px);
+        }
+
+.main-content {
+    margin-left: 220px;
+    padding: 40px;
+    flex-grow: 1;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+    header h1 {
+        font-size: 26px;
+        color: #1b4312;
+    }
+
+.card {
+    background: #506b79;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.table-container {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #84a5e7;
+}
+
+th {
+    background-color: #25d1a3;
+    font-weight: 600;
+    color: #374151;
+}
+
+/* ============ ESTILOS MEJORADOS PARA CRUD ESTUDIANTES ============ */
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    padding: 8px 16px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+    .btn-primary:hover {
+        background-color: #1e40af;
+        transform: translateY(-1px);
+    }
+
+.btn-secondary {
+    padding: 8px 16px;
+    background-color: #6b7280;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+    .btn-secondary:hover {
+        background-color: #4b5563;
+        transform: translateY(-1px);
+    }
+
+/* Estilos mejorados para botones de acción */
+/* Estilos CRÍTICOS para acciones */
+.acciones {
+    display: flex !important; /* Fuerza la visualización */
+    gap: 8px;
+    justify-content: center;
+    visibility: visible !important;
+}
+
+.btn-editar, .btn-eliminar {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.btn-editar {
+    background-color: #2563eb;
+    color: white;
+}
+
+.btn-eliminar {
+    background-color: #dc2626;
+    color: white;
+}
+
+/* Estados de la tabla */
+.cargando, .sin-datos, .error {
+    text-align: center;
+    padding: 16px;
+    font-style: italic;
+}
+
+.cargando {
+    color: #666;
+}
+
+.sin-datos {
+    color: #4b5563;
+}
+
+.error {
+    color: #b91c1c;
+    font-weight: bold;
+}
+
+/* Formulario estudiante mejorado */
+.form-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+    .form-group label {
+        display: block;
+        margin-bottom: 6px;
+        font-weight: 600;
+        color: #374151;
+        font-size: 14px;
+    }
+
+    .form-group input,
+    .form-group select {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #d1d5db;
+        border-radius: 6px;
+        font-size: 14px;
+        transition: border-color 0.3s;
+    }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            border-color: #2563eb;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 24px;
+}
+
+/* Mensajes de estado mejorados */
+.mensaje-estado {
+    padding: 12px;
+    margin: 16px 0;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+.mensaje-exito {
+    background-color: #f0fdf4;
+    color: #166534;
+    border: 1px solid #bbf7d0;
+}
+
+.mensaje-error {
+    background-color: #fef2f2;
+    color: #b91c1c;
+    border: 1px solid #fecaca;
+}
+
+/* Estados para filas de la tabla */
+tr:hover {
+    background-color: #f9fafb;
+}
+
+.no-data {
+    text-align: center;
+    color: #6b7280;
+    font-style: italic;
+    padding: 16px;
+}
+
+/* ============ ESTILOS PARA NOTAS ============ */
+#form-nueva-nota {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px 20px;
+    align-items: center;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+    #form-nueva-nota label {
+        font-weight: 600;
+        font-size: 14px;
+        color: #374151;
+    }
+
+    #form-nueva-nota input[type="text"],
+    #form-nueva-nota input[type="number"],
+    #form-nueva-nota select {
+        padding: 10px 12px;
+        border: 1.5px solid #d1d5db;
+        border-radius: 6px;
+        font-size: 14px;
+        color: #111827;
+        transition: border-color 0.3s ease;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+        #form-nueva-nota input[type="text"]:focus,
+        #form-nueva-nota input[type="number"]:focus,
+        #form-nueva-nota select:focus {
+            border-color: #2563eb;
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+    #form-nueva-nota button[type="submit"] {
+        grid-column: span 2;
+        padding: 12px 0;
+        background: linear-gradient(135deg, #2563eb, #3b82f6);
+        border: none;
+        border-radius: 8px;
+        color: white;
+        font-weight: 600;
+        font-size: 15px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+    }
+
+        #form-nueva-nota button[type="submit"]:hover {
+            background: linear-gradient(135deg, #3b82f6, #2563eb);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(37, 99, 235, 0.2);
+        }
+
+        #form-nueva-nota button[type="submit"]:active {
+            transform: translateY(0);
+        }
+
+/* ============ FOOTER Y RESPONSIVE ============ */
+footer {
+    background: #111827;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    font-size: 14px;
+    position: fixed;
+    width: calc(100% - 220px);
+    bottom: 0;
+    left: 220px;
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        width: 180px;
+        padding: 20px 15px;
+    }
+
+    .main-content {
+        margin-left: 180px;
+        padding: 30px;
+    }
+
+    footer {
+        width: calc(100% - 180px);
+        left: 180px;
+    }
+}
+
+@media (max-width: 600px) {
+    .sidebar {
+        width: 100%;
+        position: relative;
+        height: auto;
+    }
+
+    .main-content {
+        margin-left: 0;
+        padding: 20px;
+    }
+
+    footer {
+        width: 100%;
+        left: 0;
+        position: relative;
+    }
+
+    #form-nueva-nota {
+        grid-template-columns: 1fr;
+    }
+
+        #form-nueva-nota button[type="submit"] {
+            grid-column: span 1;
+        }
+
+    .section-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .form-actions {
+        justify-content: flex-start;
+    }
+}
+
+/* Asegurar que los botones sean visibles */
+.acciones {
+    display: flex !important;
+    gap: 8px;
+    justify-content: center;
+    visibility: visible !important;
+}
+
+.btn-editar, .btn-eliminar {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    display: inline-flex !important;
+    align-items: center;
+    gap: 4px;
+    opacity: 1 !important;
+}
+
+.btn-editar {
+    background-color: #2563eb;
+    color: white;
+}
+
+.btn-eliminar {
+    background-color: #dc2626;
+    color: white;
+}
+
+/* Asegurar que el formulario se vea */
+.form-container {
+    display: none; /* Se mostrará con JavaScript */
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: 1px solid #e5e7eb;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    z-index: 1000;
+    position: relative;
+}

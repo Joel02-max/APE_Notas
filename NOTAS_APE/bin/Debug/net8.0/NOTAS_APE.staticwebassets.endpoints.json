@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 23:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo="
+        }
+      ]
+    },
+    {
+      "Route": "index.zmjymd6enb.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 23:18:21 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zmjymd6enb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FV7k9Mky2SuqAzIBvyfQ0/1t2bZufyrCOhkgelUSUdo="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.c3tw8grwq0.js",
+      "AssetFile": "scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:28:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c3tw8grwq0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490="
+        },
+        {
+          "Name": "label",
+          "Value": "scriptProfesores.js"
+        }
+      ]
+    },
+    {
+      "Route": "scriptProfesores.js",
+      "AssetFile": "scriptProfesores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 22:28:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFNX83QVi253yZAbq/GXlvpaKw5ZYwqloop5fiMl490="
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.7x0oxws8cm.css",
+      "AssetFile": "stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 02:14:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7x0oxws8cm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys="
+        },
+        {
+          "Name": "label",
+          "Value": "stylesProfesor.css"
+        }
+      ]
+    },
+    {
+      "Route": "stylesProfesor.css",
+      "AssetFile": "stylesProfesor.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Jun 2025 02:14:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VeQQRRDM04/eNGYDcnDvqGLiR6e35yxNmmp531ewbys="
+        }
+      ]
+    }
+  ]
+}

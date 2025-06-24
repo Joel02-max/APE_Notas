@@ -1,0 +1,6 @@
+@NOTAS_APE_HostAddress = http://localhost:5177
+
+GET {{NOTAS_APE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

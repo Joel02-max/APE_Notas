@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\scriptProfesores.js",
+      "PackagePath": "staticwebassets\\scriptProfesores.js"
+    },
+    {
+      "Id": "C:\\Users\\yelts\\OneDrive\\Documentos\\PA\\EXpo7\\NOTAS_APE\\NOTAS_APE\\wwwroot\\stylesProfesor.css",
+      "PackagePath": "staticwebassets\\stylesProfesor.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NOTAS_APE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NOTAS_APE.props",
+      "PackagePath": "build\\NOTAS_APE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NOTAS_APE.props",
+      "PackagePath": "buildMultiTargeting\\NOTAS_APE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NOTAS_APE.props",
+      "PackagePath": "buildTransitive\\NOTAS_APE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
